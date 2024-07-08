@@ -18,7 +18,15 @@ sudo apt install git
 git config --global user.name "username"
 git config --global user.email "email@mail.ru"
 ```
-
+## Основные команды для пользования
+```
+git clone <link> - склонировать репозиторий
+git checkout -b <branchName> - создать новую ветку о текущей и перейти на неё
+git add <filename> - добавить файл в остлеживание
+git commit -m "your text" - зафиксировать изменения в коммите
+git pull - получить изменения текущей ветки
+git push - загрузить изменения в удаленный репозиторий 
+```
 
 
 
