@@ -2,7 +2,7 @@
 
 ## Первым урок
 Первым делом вам надо установить git. 
-```bash
+```
 # Вам надо создать ssh ключ. Сделать это можно следующей командой
 sudo apt install ssh
 #Генерация ключа ssh
@@ -12,7 +12,7 @@ ssh-keygen
 sudo apt install git
 git config --global user.name "username"
 git config --global user.email "email@mail.ru"
-
+```
 
 
 
